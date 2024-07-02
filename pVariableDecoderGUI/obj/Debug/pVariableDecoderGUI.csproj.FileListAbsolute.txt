@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\pVariableDecoderGUI\bin\Debug\pVariableDecoderGUI.exe.config
+C:\Users\asus\source\repos\pVariableDecoderGUI\bin\Debug\pVariableDecoderGUI.exe
+C:\Users\asus\source\repos\pVariableDecoderGUI\bin\Debug\pVariableDecoderGUI.pdb
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.Form1.resources
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.Properties.Resources.resources
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.exe
+C:\Users\asus\source\repos\pVariableDecoderGUI\obj\Debug\pVariableDecoderGUI.pdb
