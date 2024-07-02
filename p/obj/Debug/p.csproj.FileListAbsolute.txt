@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\p\bin\Debug\p.exe.config
+C:\Users\asus\source\repos\p\bin\Debug\p.exe
+C:\Users\asus\source\repos\p\bin\Debug\p.pdb
+C:\Users\asus\source\repos\p\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\p\obj\Debug\p.Form1.resources
+C:\Users\asus\source\repos\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\asus\source\repos\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\p\obj\Debug\p.exe
+C:\Users\asus\source\repos\p\obj\Debug\p.pdb
